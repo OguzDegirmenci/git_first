@@ -1,6 +1,9 @@
 from email_receiver import getEmail
 from email_sender import postEmail
 
+def emoji():
+    print(":)")
+
 def main():
     print("1 - Inbox")
     print("2 - New")
@@ -16,3 +19,4 @@ def main():
 
 
 main()
+emoji()
