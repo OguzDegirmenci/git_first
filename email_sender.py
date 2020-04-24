@@ -1,2 +1,2 @@
 def postEmail():
-    print("ümail sent...")
+    print("Email sent...")
